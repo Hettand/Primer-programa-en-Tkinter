@@ -1,0 +1,9 @@
+No está terminado.
+Arrancar programa en inicio
+
+- Descargar las bases
+- Utilicé MySQL.
+
+- Librerías:
+belfrywidgets
+pymysql
