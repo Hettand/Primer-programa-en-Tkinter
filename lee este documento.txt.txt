@@ -1,9 +1,17 @@
-No est� terminado.
-Arrancar programa en inicio
+Este programa con tkinter y phyton es un programa pensado para un taller pero creo que puede aplicarse a otros negocios 
+tiene la parte de la creación de un trabajo rota visualmente por lo que pude apreciar.
+Lo comencé en 2018 y lo subí en abril de 2019, recién comenzaba a programar y pienso que no separé lo visual de las funcionalidades.
 
-- Descargar las bases
-- Utilic� MySQL.
+Instrucciones para poder ejecutar el programa
+-Tener python instalado en tu equipo, yo utilicé la versión 3.7
+-Tienes que tener las bases en un servidor, yo utilicé wamp para levantar las bases de datos, la información de la conexión está en el archivo
+'conexion.py' y la ruta es 'paquete/conexion/conexion.py' ahí puedes cambiar el usuario y contraseña.
 
-- Librer�as:
+- Librerías que tuve que instalar:
+tkinter
 belfrywidgets
 pymysql
+smtplib
+
+-Para arrancarlo debo tener el wamp levantado con las bases y ejecuta desde el archivo 'inicio.py'
+que está en 'pauqete/inicio/inicio.py'
